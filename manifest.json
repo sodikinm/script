@@ -1,0 +1,36 @@
+name	"KiosProdukDigital"
+short_name	"KiosProdukDigital"
+start_url	"https://www.kiosprodukdigital.com/"
+display	"standalone"
+background_color	"#fff"
+theme_color	"#0050a9"
+description	"Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube."
+icons	
+0	
+src	"https://1.bp.blogspot.com/-sYO2jMWhKTo/Xde2HWoKjjI/AAAAAAAAAIk/YoRcYlZDeYM4ac8TzvOuJ7skl7jV9Do3wCNcBGAsYHQ/s1600/icon48.png"
+sizes	"48x48"
+type	"image/png"
+1	
+src	"https://1.bp.blogspot.com/-hlo3f4bYff0/Xde2HjHe5yI/AAAAAAAAAIo/b7q1jT0u1rAuf5D56awXxDOY303cJZQ2ACNcBGAsYHQ/s1600/icon72.png"
+sizes	"72x72"
+type	"image/png"
+2	
+src	"https://1.bp.blogspot.com/-sADAXHh1m9g/Xde2IBWQXyI/AAAAAAAAAIw/UDkJexpEkmk7iUtnUWCZzCn9gQw5KH-FgCNcBGAsYHQ/s1600/icon96.png"
+sizes	"96x96"
+type	"image/png"
+3	
+src	"https://1.bp.blogspot.com/-94OooAszQk8/Xde2GrwuHII/AAAAAAAAAIY/ozrSZekqCQEkoD5o0wBJ9ox4fluuDfw1gCNcBGAsYHQ/s1600/icon144.png"
+sizes	"144x144"
+type	"image/png"
+4	
+src	"https://1.bp.blogspot.com/-Cu1Hh1ee5Ac/Xde2GsF5wXI/AAAAAAAAAIc/QwpWV3yN-XsE4fmPIXBckoOywiSiq1PZwCNcBGAsYHQ/s1600/icon168.png"
+sizes	"168x168"
+type	"image/png"
+5	
+src	"https://1.bp.blogspot.com/-ImIFWRL9jxQ/Xde2GsbDyhI/AAAAAAAAAIg/Hv2jBqZP84QG0qfq_Nw6HgWPsmhRcYSFQCNcBGAsYHQ/s1600/icon192.png"
+sizes	"192x192"
+type	"image/png"
+6	
+src	"https://1.bp.blogspot.com/-glZEj5BoLhQ/Xde2HrgqpuI/AAAAAAAAAIs/uByhA9gkvj0RoyxxD483XfGBc_tWxfqQgCNcBGAsYHQ/s1600/icon512.png"
+sizes	"512x512"
+type	"image/png"
